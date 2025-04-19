@@ -29,7 +29,7 @@ author:
   location          : "广东-深圳"
   uri              : # URL
   email            : "qugeyang@hit.edu.cn" 
-  email            : "geyang_qu@foxmail.com" 
+  email2            : "geyang_qu@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -51,6 +51,8 @@ author:
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  qq					: "397185073"
+  wechat				: "qugeyangQ"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
