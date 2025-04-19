@@ -228,6 +228,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/  # URL风格严格对齐talks
+
 
 
 # These settings control how pages and collections are included in the site
@@ -285,6 +289,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+# _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: talk  # 关键点！复用 talk 模板
+      author_profile: true
+      share: true 
 
 
 # Sass/SCSS
