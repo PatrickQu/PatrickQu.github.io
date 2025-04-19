@@ -25,7 +25,10 @@ main:
 
   - title: "团建时刻"
     url: /happytime/    
-    
+
+  - title: "负责人简介"
+    url: /cv/
+  
   # - title: "Portfolio"
   #  url: /portfolio/
         
