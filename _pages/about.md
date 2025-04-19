@@ -9,7 +9,8 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!  
 欢迎来到超构表面光场调控与应用研究小组！我是团队负责人曲歌扬，向大家简要介绍本团队。  
-本研究小组的研究对象为超构表面，一种fancy的二维平面光学器件。我们主要关注它原理层面的基础研究，以及器件系统层面的应用研究。相较于传统光学元件，超构表面最大优势说人话就是：“功能强”、“体积小”——为小型化器件、可穿戴设备、多维感知芯片等方向提供了全新的解决思路。  
+本研究小组的研究对象为超构表面，一种很fancy的二维平面光学器件。通过精妙设计超构表面，我们能够实现各种违反物理直觉的光学现象。相较于传统光学元件，超构表面最大优势，说人话，就是：“功能强”、“体积小”——为小型化器件、可穿戴设备、多维感知芯片等方向提供了全新的思路。  
+具体到我们小组，我们主要关注其原理层面的基础研究，以及器件系统层面的应用研究。具体而言，我的主要研究兴趣集中在增强/虚拟现实等可穿戴设备、小飞机。  
 
 
 A data-driven personal website
