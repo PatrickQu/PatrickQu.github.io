@@ -13,7 +13,10 @@ main:
   
   - title: "研究方向"
     url: /researches/  
-  
+
+  - title: "团队小组"
+    url: /team/ 
+
   - title: "论文发表"
     url: /publications/
 
