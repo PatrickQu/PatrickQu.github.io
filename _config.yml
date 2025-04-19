@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "曲歌扬的研究小组"
+title                    : "超构表面光场调控与应用研究小组"
 title_separator          : "-"
 name                     : &name "曲歌扬"
 description              : &description "哈尔滨工业大学（深圳）-集成电路学院"
